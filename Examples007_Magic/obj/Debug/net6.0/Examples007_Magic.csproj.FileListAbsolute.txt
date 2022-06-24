@@ -1,0 +1,15 @@
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\Examples\Examples007_Magic\bin\Debug\net6.0\Examples007_Magic.exe
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\Examples\Examples007_Magic\bin\Debug\net6.0\Examples007_Magic.deps.json
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\Examples\Examples007_Magic\bin\Debug\net6.0\Examples007_Magic.runtimeconfig.json
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\Examples\Examples007_Magic\bin\Debug\net6.0\Examples007_Magic.dll
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\Examples\Examples007_Magic\bin\Debug\net6.0\Examples007_Magic.pdb
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\Examples\Examples007_Magic\obj\Debug\net6.0\Examples007_Magic.csproj.AssemblyReference.cache
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\Examples\Examples007_Magic\obj\Debug\net6.0\Examples007_Magic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\Examples\Examples007_Magic\obj\Debug\net6.0\Examples007_Magic.AssemblyInfoInputs.cache
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\Examples\Examples007_Magic\obj\Debug\net6.0\Examples007_Magic.AssemblyInfo.cs
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\Examples\Examples007_Magic\obj\Debug\net6.0\Examples007_Magic.csproj.CoreCompileInputs.cache
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\Examples\Examples007_Magic\obj\Debug\net6.0\Examples007_Magic.dll
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\Examples\Examples007_Magic\obj\Debug\net6.0\refint\Examples007_Magic.dll
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\Examples\Examples007_Magic\obj\Debug\net6.0\Examples007_Magic.pdb
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\Examples\Examples007_Magic\obj\Debug\net6.0\Examples007_Magic.genruntimeconfig.cache
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\Examples\Examples007_Magic\obj\Debug\net6.0\ref\Examples007_Magic.dll
