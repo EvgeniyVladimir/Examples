@@ -1,0 +1,15 @@
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\Examples\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.csproj.AssemblyReference.cache
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\Examples\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\Examples\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.AssemblyInfoInputs.cache
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\Examples\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.AssemblyInfo.cs
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\Examples\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.csproj.CoreCompileInputs.cache
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\Examples\Example008_IntroMethod\bin\Debug\net6.0\Example008_IntroMethod.exe
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\Examples\Example008_IntroMethod\bin\Debug\net6.0\Example008_IntroMethod.deps.json
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\Examples\Example008_IntroMethod\bin\Debug\net6.0\Example008_IntroMethod.runtimeconfig.json
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\Examples\Example008_IntroMethod\bin\Debug\net6.0\Example008_IntroMethod.dll
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\Examples\Example008_IntroMethod\bin\Debug\net6.0\Example008_IntroMethod.pdb
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\Examples\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.dll
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\Examples\Example008_IntroMethod\obj\Debug\net6.0\refint\Example008_IntroMethod.dll
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\Examples\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.pdb
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\Examples\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.genruntimeconfig.cache
+D:\Geek Brains\3. Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\Examples\Example008_IntroMethod\obj\Debug\net6.0\ref\Example008_IntroMethod.dll
